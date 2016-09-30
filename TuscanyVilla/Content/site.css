@@ -11,14 +11,12 @@
 .page-header h2{
     font-family: 'Allura', cursive;
 }
-.thumbnail{
-    padding: 0px;
+.image-col{
+    padding: 1px;
     border: 0px;
-    margin: 1px 1px 1px 1px;
+    margin: 0px;
 }
-.thumbnail-col{
-    padding: 0px;
-}
-.img-responsive{
-    margin: 0px 0px 0px 0px;
-}
+
+/*.img-responsive{
+
+}*/
