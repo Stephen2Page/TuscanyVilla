@@ -1,2 +1,21 @@
 ﻿body {
+    background-color: lightslategray
+}
+.page-header{
+    text-align:center;
+    /*background-color: lightslategray;*/
+    padding: 30px 30px;
+    margin-top: 0px;
+    /*font-family: 'Allura', cursive;*/
+}
+.page-header h2{
+    font-family: 'Allura', cursive;
+}
+.thumbnail{
+    padding: 0px;
+    border: 0px;
+    margin: 1px;
+}
+.thumbnail-col{
+    padding: 0px;
 }
