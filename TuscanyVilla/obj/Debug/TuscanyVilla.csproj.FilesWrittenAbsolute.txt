@@ -1,0 +1,11 @@
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/obj/Debug/TuscanyVilla.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/obj/Debug/TuscanyVilla.pdb
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.DependencyCollector.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.Web.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.AI.WindowsServer.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.ApplicationInsights.dll
+/Users/stephenpage/Documents/Visual Studio Projects/TuscanyVilla/TuscanyVilla/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
