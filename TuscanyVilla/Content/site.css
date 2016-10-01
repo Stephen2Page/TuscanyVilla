@@ -30,11 +30,26 @@
 .image-large{
      margin-left: 2px
 }
-.callout-text{
+.callout-text1{
     position: absolute; 
     top: 75px; 
     left: 30px; 
     width: 100%; 
+}
+.callout-text2{
+    position: absolute; 
+    top: 50px; 
+    padding: 20px;
+    width: 100%; 
+    text-align: center;
+}
+.partners{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    max-width: 100%;
+    max-height: 100%;
 }
 /*.img-responsive{
 
