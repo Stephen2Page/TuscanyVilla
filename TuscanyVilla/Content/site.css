@@ -5,18 +5,23 @@
     text-align:center;
     /*background-color: lightslategray;*/
     padding: 30px 30px;
-    margin-top: 0px;
+    margin: 0px;
     /*font-family: 'Allura', cursive;*/
 }
 .page-header h2{
     font-family: 'Allura', cursive;
+}
+.navbar {
+    margin-bottom: 0px;
 }
 .image-col{
     padding: 1px;
     border: 0px;
     margin: 0px;
 }
-
+.image-large{
+     margin-left: 2px
+}
 /*.img-responsive{
 
 }*/
