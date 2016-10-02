@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: lightslategray
+    background-color: #CED1CF;
 }
 .page-header{
     text-align:center;
@@ -43,14 +43,14 @@
     width: 100%; 
     text-align: center;
 }
-.partners{
+/*.partners {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     max-width: 100%;
     max-height: 100%;
-}
-/*.img-responsive{
-
 }*/
+.footer {
+    padding: 10px;
+}
