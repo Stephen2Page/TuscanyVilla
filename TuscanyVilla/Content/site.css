@@ -22,6 +22,10 @@
 .navbar .navbar-collapse {
     text-align: center;
 }
+.main-body img {
+    width: 100%;
+    height: auto;
+}
 .image-col{
     padding: 1px;
     border: 0px;
@@ -52,5 +56,11 @@
     max-height: 100%;
 }*/
 .footer {
-    padding: 10px;
+    /*padding: 10px;*/
+    font-size: 8;
+}
+.sociallinks {
+    float: right;
+    padding-left: 0px;
+    
 }
