@@ -14,13 +14,22 @@
 .navbar {
     margin-bottom: 0px;
 }
+
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
+    position: relative;
     vertical-align: top;
 }
 .navbar .navbar-collapse {
     text-align: center;
+}
+.navbar-brand {
+    background-color: #6FCEBC;
+    color: #FFFFFF;
+}
+.navbar-center {
+    justify-content: center;
+    background-color: #FF0000;
 }
 .main-body img {
     width: 100%;
@@ -34,27 +43,6 @@
 .image-large{
      margin-left: 2px
 }
-.callout-text1{
-    position: absolute; 
-    top: 75px; 
-    left: 30px; 
-    width: 100%; 
-}
-.callout-text2{
-    position: absolute; 
-    top: 50px; 
-    padding: 20px;
-    width: 100%; 
-    text-align: center;
-}
-/*.partners {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    max-width: 100%;
-    max-height: 100%;
-}*/
 .footer {
 
     font-size: 8;
