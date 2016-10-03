@@ -17,7 +17,7 @@
 
 .navbar .navbar-nav {
     display: inline-block;
-    position: relative;
+    float: none;
     vertical-align: top;
 }
 .navbar .navbar-collapse {
@@ -28,8 +28,7 @@
     color: #FFFFFF;
 }
 .navbar-center {
-    justify-content: center;
-    background-color: #FF0000;
+    text-align: center;
 }
 .main-body img {
     width: 100%;
